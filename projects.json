@@ -1,0 +1,169 @@
+[
+  {
+    "id": "anp-book-cover",
+    "title": "A.N.P. Book Cover",
+    "category": "Book Covers & Layout Design",
+    "description": "A.N.P. cover design with a high-contrast crowd scene and bold red title treatment, created in ibisPaint.",
+    "media": [{ "type": "image", "path": "Imges/ANP_BookCover.webp", "alt": "A.N.P. book cover with a suited figure and crowd" }],
+    "thumbnail": "Imges/ANP_BookCover.webp",
+    "software": ["ibisPaint"],
+    "role": "Book cover designer",
+    "behanceUrl": ""
+  },
+  {
+    "id": "broken-glass-cover",
+    "title": "Broken Glass",
+    "category": "Book Covers & Layout Design",
+    "description": "A pink Broken Glass cover pairing expressive title lettering with a close-up portrait, created in ibisPaint.",
+    "media": [{ "type": "image", "path": "Imges/Broken_BookCover.webp", "alt": "Pink Broken Glass book cover" }],
+    "thumbnail": "Imges/Broken_BookCover.webp",
+    "software": ["ibisPaint"],
+    "role": "Book cover designer",
+    "behanceUrl": ""
+  },
+  {
+    "id": "where-the-trees-go",
+    "title": "Where the Trees Go",
+    "category": "Book Covers & Layout Design",
+    "description": "A woodland cover illustration with oversized trees and layered greens for Where the Trees Go, created in ibisPaint.",
+    "media": [{ "type": "image", "path": "Imges/children_bookCover.webp", "alt": "Illustrated Where the Trees Go cover with a tree and woodland scene" }],
+    "thumbnail": "Imges/children_bookCover.webp",
+    "software": ["ibisPaint"],
+    "role": "Book cover designer and illustrator",
+    "behanceUrl": ""
+  },
+  {
+    "id": "alphabet-illustration",
+    "title": "Alphabet Illustration",
+    "category": "Illustration & Digital Art",
+    "description": "A colorful alphabet composition that pairs hand-drawn letters with small illustrated details, created in ibisPaint.",
+    "media": [{ "type": "image", "path": "Imges/fall_2025_Mam_Alphabet.webp", "alt": "Colorful illustrated alphabet tiles" }],
+    "thumbnail": "Imges/fall_2025_Mam_Alphabet.webp",
+    "software": ["ibisPaint"],
+    "role": "Illustrator",
+    "behanceUrl": ""
+  },
+  {
+    "id": "noodle-shop-illustration",
+    "title": "Noodle Shop Storefront",
+    "category": "Graphic Design",
+    "description": "A detailed noodle-shop storefront illustration featuring signage, a striped awning, and street-side seating, created in ibisPaint.",
+    "media": [{ "type": "image", "path": "Imges/GraphicArt_StoreDesign.webp", "alt": "Illustrated noodle-shop storefront with stools" }],
+    "thumbnail": "Imges/GraphicArt_StoreDesign.webp",
+    "software": ["ibisPaint"],
+    "role": "Illustrator and graphic designer",
+    "behanceUrl": ""
+  },
+  {
+    "id": "nature-graphic",
+    "title": "Nature: Save What Was Always Here",
+    "category": "Illustration & Digital Art",
+    "description": "A leaf illustration paired with the message “Save what was always here,” created in ibisPaint.",
+    "media": [{ "type": "image", "path": "Imges/Graphic_ArtWork1.webp", "alt": "Leaf illustration with the text Save what was always here" }],
+    "thumbnail": "Imges/Graphic_ArtWork1.webp",
+    "software": ["ibisPaint"],
+    "role": "Illustrator",
+    "behanceUrl": ""
+  },
+  {
+    "id": "framed-landscape",
+    "title": "Framed Landscape Illustration",
+    "category": "Illustration & Digital Art",
+    "description": "A framed landscape illustration built from bright color blocks, rolling forms, and clustered plants, created in ibisPaint.",
+    "media": [{ "type": "image", "path": "Imges/Graphic_ArtWork3.webp", "alt": "Colorful framed landscape illustration" }],
+    "thumbnail": "Imges/Graphic_ArtWork3.webp",
+    "software": ["ibisPaint"],
+    "role": "Illustrator",
+    "behanceUrl": ""
+  },
+  {
+    "id": "portrait-drawing",
+    "title": "Portrait Drawing",
+    "category": "Illustration & Digital Art",
+    "description": "A stylized digital portrait focused on expressive shapes, layered color, and a statement necklace, created in ibisPaint.",
+    "media": [{ "type": "image", "path": "Imges/Person_Drawing.webp", "alt": "Digital portrait of a person wearing a necklace" }],
+    "thumbnail": "Imges/Person_Drawing.webp",
+    "software": ["ibisPaint"],
+    "role": "Digital illustrator",
+    "behanceUrl": ""
+  },
+  {
+    "id": "rosary-branding",
+    "title": "Rosary Logo & Packaging",
+    "category": "Graphic Design",
+    "description": "A Rosary brand presentation bringing together a logo, coordinated color palette, and floral packaging design, created in ibisPaint.",
+    "media": [{ "type": "image", "path": "Imges/Pallet_Logo_packageDesign_art.webp", "alt": "Rosary logo and floral packaging design presentation" }],
+    "thumbnail": "Imges/Pallet_Logo_packageDesign_art.webp",
+    "software": ["ibisPaint"],
+    "role": "Brand identity and packaging designer",
+    "behanceUrl": ""
+  },
+  {
+    "id": "beauty-storefront",
+    "title": "Beauty Storefront Web Design",
+    "category": "Graphic Design",
+    "description": "A beauty storefront concept combining product imagery, a promotional hero, and a browsable online shop layout.",
+    "media": [{ "type": "image", "path": "Imges/image.webp", "alt": "Beauty storefront website screenshot" }],
+    "thumbnail": "Imges/image.webp",
+    "software": ["Pinterest", "HTML", "CSS", "Visual Studio", "Copilot"],
+    "role": "Web designer and developer",
+    "behanceUrl": ""
+  },
+  {
+    "id": "retail-display-photo-1",
+    "title": "Retail Display Photograph 01",
+    "category": "Photography",
+    "description": "A photograph capturing a colorful retail display of character goods, boxed items, and plush toys.",
+    "media": [{ "type": "image", "path": "Imges/Cute_store_picture.webp", "alt": "Retail display with character goods and plush toys" }],
+    "thumbnail": "Imges/Cute_store_picture.webp",
+    "software": [],
+    "role": "Photographer",
+    "behanceUrl": ""
+  },
+  {
+    "id": "retail-display-photo-2",
+    "title": "Retail Display Photograph 02",
+    "category": "Photography",
+    "description": "A second retail-display photograph highlighting the arrangement of character goods and plush toys.",
+    "media": [{ "type": "image", "path": "Imges/Cute_Store_Pic2.webp", "alt": "Another view of a retail display with character goods and plush toys" }],
+    "thumbnail": "Imges/Cute_Store_Pic2.webp",
+    "software": [],
+    "role": "Photographer",
+    "behanceUrl": ""
+  },
+  {
+    "id": "lipstick-product-photo",
+    "title": "Lipstick Product Photograph",
+    "category": "Photography",
+    "description": "A styled product photograph featuring a lipstick tube and decorative accessories.",
+    "media": [{ "type": "image", "path": "Imges/Lipstick_Productshoot.webp", "alt": "Lipstick tube photographed with decorative accessories" }],
+    "thumbnail": "Imges/Lipstick_Productshoot.webp",
+    "software": [],
+    "role": "Product photographer",
+    "behanceUrl": ""
+  },
+  {
+    "id": "music-video",
+    "title": "Music Video",
+    "category": "Video Editing & Multimedia",
+    "description": "A music video filmed and edited by Rosa M.",
+    "media": [{ "type": "video", "url": "https://drive.google.com/file/d/1YjOac4mysjq_wCDHw9h2iGNW2yUwV85R/view", "embedUrl": "https://drive.google.com/file/d/1YjOac4mysjq_wCDHw9h2iGNW2yUwV85R/preview", "alt": "Music video hosted on Google Drive" }],
+    "thumbnail": "Imges/Music_Video_Thumbnial.png",
+    "thumbnailAlt": "Black and white thumbnail of a seated guitarist playing on stage",
+    "software": ["Adobe Premiere Pro"],
+    "role": "Filming and video editing",
+    "behanceUrl": ""
+  },
+  {
+    "id": "podcast-episode",
+    "title": "Podcast Episode",
+    "category": "Video Editing & Multimedia",
+    "description": "A podcast episode Rosa M. helped film and edit.",
+    "media": [{ "type": "video", "url": "https://youtu.be/R9M1qo2H0Bc?si=QcCFYlw4d5A7DaUs", "embedUrl": "https://www.youtube-nocookie.com/embed/R9M1qo2H0Bc", "alt": "Podcast episode hosted on YouTube" }],
+    "thumbnail": "Imges/podcast_Video_Thumbnail.png",
+    "thumbnailAlt": "Illustrated Bobcat Banter podcast cover featuring a bobcat and microphone",
+    "software": ["Adobe Premiere Pro"],
+    "role": "Assisted with filming and video editing",
+    "behanceUrl": ""
+  }
+]
