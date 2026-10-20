@@ -24,12 +24,12 @@ function cardMarkup(project, featured = false) {
   const image = project.media.find((item) => item.type === "image");
   const thumbnail = image ? project.thumbnail || image.path : project.thumbnail;
   const imageMarkup = thumbnail
-    ? `<img src="${escapeHtml(assetUrl(thumbnail))}" alt="${escapeHtml(image ? image.alt : project.thumbnailAlt || project.title)}" loading="lazy" decoding="async">${image ? "" : '<span class="video-play-badge" aria-hidden="true">▶</span>'}`
-    : `<span class="play-mark" aria-hidden="true">▶</span><span class="poster-type">${escapeHtml(project.category)}</span><span class="poster-title">${escapeHtml(project.title)}</span>`;
+    ? `<img src="${escapeHtml(assetUrl(thumbnail))}" alt="${escapeHtml(image ? image.alt : project.thumbnailAlt || project.title)}" loading="lazy" decoding="async">${image ? "" : '<span class="video-play-badge" aria-hidden="true"></span>'}`
+    : `<span class="play-mark" aria-hidden="true"></span><span class="poster-type">${escapeHtml(project.category)}</span><span class="poster-title">${escapeHtml(project.title)}</span>`;
   const imageClass = image ? "project-image" : thumbnail ? "project-image video-thumbnail" : "project-image video-poster";
   return `<button class="project-card" type="button" data-project="${escapeHtml(project.id)}" aria-label="Open project: ${escapeHtml(project.title)}">
     <span class="${imageClass}">${imageMarkup}</span>
-    <span class="project-meta"><span class="project-category">${escapeHtml(project.category)}</span><span class="project-arrow" aria-hidden="true">↗</span></span>
+    <span class="project-meta"><span class="project-category">${escapeHtml(project.category)}</span></span>
     <span class="project-title">${escapeHtml(project.title)}</span>
   </button>`;
 }
